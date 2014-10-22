@@ -1,0 +1,20 @@
+{
+  "name": "jgkingston",
+  "version": "1.0.0",
+  "description": "firstAttempt",
+  "main": "home.js",
+  "scripts": {
+    "start": "node home.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm_launch"
+  },
+  "keywords": [
+    "practice",
+    "ironyard"
+  ],
+  "author": "Jamie Kingston",
+  "license": "ISC"
+}

@@ -9,4 +9,4 @@ Currently I am following along with the exercise in a single project.js file and
 
 I will probabaly serparate things out into separate files and folders at some point.
 
-For now having it all in one place helps me remember what I have learned so fara.
+For now having it all in one place helps me remember what I have learned so far.
